@@ -17,7 +17,7 @@
 <p align="left">
   <strong>&nbsp; Hi, I'm Lyons Albert Masawa, A Software Developer & Graphic Designer from Kenya </strong>
   <br>
-  <strong align-self="center">&nbsp;Check out my portfolio: <a href="https://lyonsworldx.web.app/">Lyons World</strong>
+  <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my portfolio: <a href="https://lyonsworldx.web.app/">&nbsp;Lyons World&nbsp;</strong>
   <br>
   🎓 I graduated from Moringa School, Software Development track.
   <br>
