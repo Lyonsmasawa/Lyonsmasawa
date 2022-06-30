@@ -99,7 +99,7 @@
 <h4 align="center">
   <a href="https://github.com/Lyonsmasawa?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">✨ ACHIEVEMENTS ✨</h2>
 <br>
 
 <!--
