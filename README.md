@@ -2,17 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lyons+Masawa....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/lyonsalbert/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.codewars.com/users/Lyonsmasawa" title="CodeWars Profile"><img width="22" src="https://www.codewars.com/users/Lyonsmasawa/badges/small"> CodeWars</a></code>
+  <code><a href="https://stackoverflow.com/users/15360701/lyons-masawa" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
+
 <br>
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
