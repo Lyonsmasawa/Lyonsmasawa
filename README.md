@@ -15,26 +15,19 @@
 
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+   Hi, I'm Lyons Albert Masawa, A Software Developer & Graphic Designer from Kenya
   <br>
+  🎓 I graduated from Moringa School, Software Development track.
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  💻 I enjoy learning and writing code.
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  📚 I’m currently learning Node Js.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: lyonsmasawa@gmail.com">lyonsmasawa@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
