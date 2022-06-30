@@ -14,7 +14,7 @@
 </h5>
 
 <br>
-<p align="center">
+<p align="left">
    Hi, I'm Lyons Albert Masawa, A Software Developer & Graphic Designer from Kenya
   <br>
   🎓 I graduated from Moringa School, Software Development track.
