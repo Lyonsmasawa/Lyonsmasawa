@@ -26,7 +26,7 @@
   <br>
   📫 How to reach me: <a href="mailto: lyonsmasawa@gmail.com">lyonsmasawa@gmail.com</a>
 </p>
-<h2 align="center"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my portfolio: <a href="https://lyonsworldx.web.app/">&nbsp;Lyons World&nbsp;</strong></h2>
+<h2 align="center"><strong>&nbsp;Check out my portfolio: <a href="https://lyonsworldx.web.app/">&nbsp;Lyons World&nbsp;</strong></h2>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
