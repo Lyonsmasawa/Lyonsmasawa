@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/lyonsalbert/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.codewars.com/users/Lyonsmasawa" title="CodeWars Profile"><img width="22" src="https://www.codewars.com/users/Lyonsmasawa/badges/small"> CodeWars</a></code>
+  <code><a href="https://www.codewars.com/users/Lyonsmasawa" title="CodeWars Profile"><img width="22" src="https://www.codewars.com/users/Lyonsmasawa/badges/large"> CodeWars</a></code>
   <code><a href="https://stackoverflow.com/users/15360701/lyons-masawa" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
