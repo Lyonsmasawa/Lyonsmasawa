@@ -78,22 +78,22 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Lyonsmasawa/Neighbourhood-X" title="Neighbourhood-X"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Lyonsmasawa/awwward-X" title="awwward-X"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Lyonsmasawa/Neighbourhood-X" title="Neighbourhood-X"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Neighbourhood-X&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Lyonsmasawa/awwward-X" title="awwward-X"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=awwward-X&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Lyonsmasawa/Gallery-X" title="Gallery-X"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Lyonsmasawa/Insta-X" title="Insta Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Lyonsmasawa/Gallery-X" title="Gallery-X"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Gallery-X&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Lyonsmasawa/Insta-X" title="Insta Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Insta-X&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Lyonsmasawa/Disney-plus-X" title="Disney-plus Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Lyonsmasawa/Spotify-X" title="Spotify Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Lyonsmasawa/Disney-plus-X" title="Disney-plus Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Disney-plus-X&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Lyonsmasawa/Spotify-X" title="Spotify Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Spotify-X&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Lyonsmasawa/learning-bay" title="Learning Bay"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Lyonsmasawa/LinkedIn-X" title="LinkedIn Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Lyonsmasawa/learning-bay" title="Learning Bay"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=learning-bay&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Lyonsmasawa/LinkedIn-X" title="LinkedIn Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=LinkedIn-X&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
