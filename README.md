@@ -84,7 +84,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Lyonsmasawa/Gallery-X" title="Gallery-X"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Gallery-X&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Lyonsmasawa/Insta-X" title="Insta Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Insta-X&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Lyonsmasawa/Insta-X" title="Instagram Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyonsmasawa&repo=Insta-X&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
