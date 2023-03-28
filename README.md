@@ -71,8 +71,6 @@
     </a>
   </div>
   <br>
-  [![Lyons' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyonsmasawa&theme=react-dark)](https://github.com/Lyonsmasawa/github-readme-activity-graph)
-
 <hr>
 <br>
 
